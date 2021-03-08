@@ -17,4 +17,4 @@ My project consists of for classes: Account, Database, Transaction, Application.
 
 4)In Application class whole menu is made. Menu can be used by typing number of option like [1,2,3,4,5]. 
   In this class methods from Account and Transaction classes are called. The program run starts in this class. 
-  Also it can be terminated by exit() method which I had imported.
+ 
